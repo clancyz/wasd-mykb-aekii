@@ -33,7 +33,7 @@ This is my [Filco Majestouch Convertible 2 Tenkeyless](http://www.diatec.co.jp/e
 
 My keycap code is `888UWJ`.
 
-## About template
+## How to use
 
 You can directly use `svg` file in `dist` folder as a design template to submit a [zfrontier MYKB](http://www.zfrontier.com/mykb)  order。
 
