@@ -2,7 +2,11 @@
 
 ## Motivation
 
-I'm using [filco minila](http://www.diatec.co.jp/en/det.php?prod_c=1320) as a mac extended keyboard for more than 2 years,But recently realized I'm more efficient when using 87 keyboards. But most 87 keyboards is designed for windows use. So I'm trying to find appropriate keycaps for myself.
+I'm using [filco minila](http://www.diatec.co.jp/en/det.php?prod_c=1320) as a mac extended keyboard for more than 2 years,
+
+But recently I realized I'm more efficient when using 87 keyboards. 
+
+But most 87 keyboards is designed for windows use. So I'm trying to find appropriate keycaps for myself.
 
 ## AEKII
 
@@ -31,7 +35,7 @@ My keycap code is `888UWJ`.
 
 ## About template
 
-You can directly use 'svg' file in 'dist' folder as a design template to submit a [zfrontier MYKB](http://www.zfrontier.com/mykb)  order。
+You can directly use `svg` file in `dist` folder as a design template to submit a [zfrontier MYKB](http://www.zfrontier.com/mykb)  order。
 
 Or you can use [Inkscape](https://inkscape.org/) to modify the svg whatever you like.
 
